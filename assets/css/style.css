@@ -7,7 +7,7 @@
 html{
     font-size: 15px;
     scroll-behavior: smooth;
-    scroll-margin-bottom: 50px;
+    scroll-padding-top: 100px;
     font-family: 'Poppins', sans-serif;
 }
 body{
